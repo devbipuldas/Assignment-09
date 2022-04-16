@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.fullwebsite{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.header_section{
+    background: #34495e;
+    padding: 10px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.banner_section{
+    background-color: #e67e22;
+    max-width: 100%;
+    padding: 30px;
+}
+img{
+width: 450px;
+margin-left: 150px;
+box-shadow: 5px 5px 5px  white  ;
+}
+
+.about_section{
+    background-color: #34495e;
+    text-align: center;
+    padding: 25px;
+}
+div h3{
+color: aliceblue;
+padding: 10px;
+}
+
+div h5{
+    color: #349ce1;
+}
+
+div p{
+    color: aliceblue;
+}
+.service_section{
+    background-color: #9b59b6;
+    text-align: center;
+    padding: 25px;
+}
+.web_design{
+    color: #198754;
+}
+
+.web_development{
+    color: #eabc1c;
+}
+
+
+.web_application{
+    color: #95aaa5;
+}
+
+.footer_section{
+    background-color: #ff9814;
+    padding: 30px;
+    
+}
+.box{
+    background-color: #dcdcdc;
+    width: 250px;
+    height: 70px;
+    margin-left: 250px;
+    box-shadow: 10px 10px   white  ;
+    border-radius: 3px;
+    border:2px black dashed ;
+}
+.three_star{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+  
+   
+    
+}
+.footer_section_bottom{
+    background: #2c3e50;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+  
+}
